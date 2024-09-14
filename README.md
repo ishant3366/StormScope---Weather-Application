@@ -37,5 +37,5 @@ OVERVIEW -: So I created this repo and imported it to vercel and deployed it but
 
 Screenshot -:
 
-![Screenshot 2024-09-14 194940](https://github.com/user-attachments/assets/bc38d5c7-ddf9-4b69-9c35-dd347dbadcd2)
+
 
