@@ -32,3 +32,10 @@ The application is deployed publicly and can be accessed
 Contributing
 
 Feel free to submit issues or pull requests to improve the application.
+
+OVERVIEW -: So I created this repo and imported it to vercel and deployed it but its not executing properly on vercel as the background, visuals , images , hovers and transitions have disappeared which is probably due to incorrect file paths which I am unable to identify so I am attaching a screenshot of what the web application looks like when it runs locally on my pc.
+
+Screenshot -:
+
+![Screenshot 2024-09-14 194940](https://github.com/user-attachments/assets/bc38d5c7-ddf9-4b69-9c35-dd347dbadcd2)
+
