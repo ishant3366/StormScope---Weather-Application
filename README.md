@@ -33,11 +33,12 @@ Contributing
 
 Feel free to submit issues or pull requests to improve the application.
 
-OVERVIEW -: So I created this repo and imported it to vercel and deployed it but its not executing properly on vercel as the background, visuals , images , hovers and transitions have disappeared which is probably due to incorrect file paths which I am unable to identify so I am attaching a screenshot of what the web application looks like when it runs locally on my pc.
+OVERVIEW -: So I created this repo and deployed it and it is getting deployed but its not executing properly as the image,icons to visualise weather like clouds,sun,search button have disappeared on the deployed webpage which is probably due to incorrect file paths or images not being pushed which I am unable to identify and solve and considering the deadline so I am attaching a screenshot of what the web application looks like as well as a video of it when it runs on my local machine as well as on getting deployed.
 
 Screenshot -:
 
 [Screenshot 2024-09-14 194940](https://github.com/user-attachments/assets/7272c28c-7d14-4572-83f7-cfc6804843fe)
+
 
 Video -:
 
