@@ -37,7 +37,7 @@ OVERVIEW -: So I created this repo and deployed it and it is getting deployed bu
 
 Screenshot -:
 
-https://github.com/ishant3366/StormScope---Weather-Application/blob/main/Screenshot%202024-09-29%20224951.png?raw=true
+![Screenshot 2024-09-29 224951](https://github.com/user-attachments/assets/52586aa3-e0ff-4efc-9b38-bcdb1b1c5e4a)
 
 [Screenshot 2024-09-14 194940](https://github.com/user-attachments/assets/7272c28c-7d14-4572-83f7-cfc6804843fe)
 
