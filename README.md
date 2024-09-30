@@ -35,6 +35,8 @@ Feel free to submit issues or pull requests to improve the application.
 
 OVERVIEW -: So I created this repo and deployed it and it is getting deployed but its not executing properly as the image,icons to visualise weather like clouds,sun,search button have disappeared on the deployed webpage which is probably due to incorrect file paths or images not being pushed which I am unable to identify and solve and considering the deadline so I am attaching a screenshot of what the web application looks like as well as a video of it when it runs on my local machine as well as on getting deployed.
 
+Link -: https://ishant3366.github.io/StormScope---Weather-Application/
+
 Screenshot -:
 
 ![Screenshot 2024-09-29 224951](https://github.com/user-attachments/assets/52586aa3-e0ff-4efc-9b38-bcdb1b1c5e4a)
